@@ -29,7 +29,7 @@ Glen E. Bredon - Topology and Geometry (위상수학 및 기하학) (Springer, G
 Differential Geometry (미분기하학) <br>
 John M. Lee – Introduction to Topological Manifolds (위상다양체 입문) (Springer, GTM 202) (Not Complete; Chapters 5-12) <br>
 John M. Lee – Introduction to Smooth Manifolds (미분다양체 입문) (Springer, GTM 218) (Not Complete; Chapters 1-8) <br> 
-John M. Lee - Riemannian Manifolds (Riemann 다양체) (Springer, GTM 176) (Currently translating; 현재 작업중) <br>
+John M. Lee - Riemannian Manifolds (Riemann 다양체) (Springer, GTM 176) (Currently translating; 현재 작업중) <br> <br>
 
 Probability Theory (확률론) <br>
 Rick Durrett - Probability (확률론) (Sections 2.1-2.2, 4.1-4.8)
