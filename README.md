@@ -33,6 +33,6 @@ John M. Lee – Introduction to Smooth Manifolds (미분다양체 입문) (Sprin
 John M. Lee – Introduction to Riemannian Manifolds (Riemann 다양체 입문) (Springer, GTM 176) (Currently translating; 현재 작업중) <br> <br>
 
 Probability Theory (확률론) <br>
-Rick Durrett - Probability (확률론) (Cambridge) (Sections 2.1-2.2, 4.1-4.8)
+Rick Durrett - Probability (확률론) (Cambridge) (Not Complete; Sections 2.1-2.2, 4.1-4.8)
 
 
