@@ -12,7 +12,7 @@ List of Documents (문서 목록) <br> <br>
 Algebra, Number Theory, Algebraic Geometry (대수학, 정수론, 대수기하학) <br>
 Thomas W. Hungerford – Algebra (대수학) (Springer, GTM 73) <br>
 Peter J. Freyd – Abelian Categories (Abel 범주) (Not Complete; Chapters 1-2) <br>
-Marcus – Number Fields (수체) (Springer) (Not Complete; Chapters 1-5, 7) <br>
+Daniel A. Marcus – Number Fields (수체) (Springer) (Not Complete; Chapters 1-5, 7) <br>
 Robin Hartshorne – Algebraic Geometry (대수기하학) (Springer, GTM 52) <br>
 James E. Humphreys – Linear Algebraic Groups (선형대수군) (Springer, GTM 21) <br> <br>
 
