@@ -11,7 +11,7 @@ List of Documents (문서 목록) <br> <br>
 
 Algebra, Number Theory, Algebraic Geometry (대수학, 정수론, 대수기하학) <br>
 Thomas W. Hungerford – Algebra (대수학) (Springer, GTM 73) <br>
-Peter J. Freyd – Abelian Categories (Abel 범주) (Not Complete; Chapters 1-2) <br>
+Peter J. Freyd – Abelian Categories (Abel 범주) (Harper) (Not Complete; Chapters 1-2) <br>
 Daniel A. Marcus – Number Fields (수체) (Springer) (Not Complete; Chapters 1-5, 7) <br>
 Robin Hartshorne – Algebraic Geometry (대수기하학) (Springer, GTM 52) <br>
 James E. Humphreys – Linear Algebraic Groups (선형대수군) (Springer, GTM 21) <br> <br>
@@ -33,6 +33,6 @@ John M. Lee – Introduction to Smooth Manifolds (미분다양체 입문) (Sprin
 John M. Lee – Introduction to Riemannian Manifolds (Riemann 다양체 입문) (Springer, GTM 176) (Currently translating; 현재 작업중) <br> <br>
 
 Probability Theory (확률론) <br>
-Rick Durrett - Probability (확률론) (Sections 2.1-2.2, 4.1-4.8)
+Rick Durrett - Probability (확률론) (Cambridge) (Sections 2.1-2.2, 4.1-4.8)
 
 
