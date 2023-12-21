@@ -23,8 +23,8 @@ Walter Rudin – Functional Analysis (함수해석학) (McGraw Hill) <br>
 Lawrence C. Evans – Partial Differential Equations (편미분방정식) (AMS) (Not Complete; Chapters 8-11) <br> <br>
 
 Set Theory, Topology (집합론, 위상수학) <br>
-Thomas Jech – Set Theory (집합론) (Springer) (Not Complete; Chapters 1-8)
-John L. Kelley – General Topology (일반위상수학) (Springer, GTM 27)
+Thomas Jech – Set Theory (집합론) (Springer) (Not Complete; Chapters 1-8) <br>
+John L. Kelley – General Topology (일반위상수학) (Springer, GTM 27) <br>
 Glen E. Bredon - Topology and Geometry (위상수학 및 기하학) (Springer, GTM 139) (Not Complete; Chapters 1-6) <br> <br>
 
 Differential Geometry (미분기하학) <br>
