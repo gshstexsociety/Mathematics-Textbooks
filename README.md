@@ -25,7 +25,7 @@ Lawrence C. Evans – Partial Differential Equations (편미분방정식) (AMS) 
 Set Theory, Topology (집합론, 위상수학) <br>
 Thomas Jech – Set Theory (집합론) (Springer) (Not Complete; Chapters 1-8) <br>
 John L. Kelley – General Topology (일반위상수학) (Springer, GTM 27) <br>
-Glen E. Bredon - Topology and Geometry (위상수학 및 기하학) (Springer, GTM 139) (Not Complete; Chapters 1-6) <br> <br>
+Glen E. Bredon – Topology and Geometry (위상수학 및 기하학) (Springer, GTM 139) (Not Complete; Chapters 1-6) <br> <br>
 
 Differential Geometry (미분기하학) <br>
 John M. Lee – Introduction to Topological Manifolds (위상다양체 입문) (Springer, GTM 202) (Not Complete; Chapters 5-12) <br>
@@ -33,6 +33,6 @@ John M. Lee – Introduction to Smooth Manifolds (미분다양체 입문) (Sprin
 John M. Lee – Introduction to Riemannian Manifolds (Riemann 다양체 입문) (Springer, GTM 176) (Currently translating; 현재 작업중) <br> <br>
 
 Probability Theory (확률론) <br>
-Rick Durrett - Probability (확률론) (Cambridge) (Not Complete; Sections 2.1-2.2, 4.1-4.8)
+Rick Durrett – Probability (확률론) (Cambridge) (Not Complete; Sections 2.1-2.2, 4.1-4.8)
 
 
