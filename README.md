@@ -11,7 +11,7 @@ List of Documents (문서 목록) <br> <br>
 
 Algebra, Number Theory, Algebraic Geometry (대수학, 정수론, 대수기하학) <br>
 Thomas W. Hungerford – Algebra (대수학) (Springer, GTM 73) <br>
-Peter J. Freyd – Abelian Categories (Abel 범주) (Harper) (Not Complete; Chapters 1-2) <br>
+Peter J. Freyd – Abelian Categories (Abel 범주) (Harper) (Not Complete; Chapters 1-3) <br>
 Daniel A. Marcus – Number Fields (수체) (Springer) (Not Complete; Chapters 1-5, 7) <br>
 Robin Hartshorne – Algebraic Geometry (대수기하학) (Springer, GTM 52) <br>
 James E. Humphreys – Linear Algebraic Groups (선형대수군) (Springer, GTM 21) <br> <br>
@@ -20,7 +20,8 @@ Analysis (해석학) <br>
 Walter Rudin – Principles of Mathematical Analysis (해석학의 원리) (McGraw Hill) <br>
 Walter Rudin – Real and Complex Analysis (실 및 복소해석학) (McGraw Hill) <br>
 Walter Rudin – Functional Analysis (함수해석학) (McGraw Hill) <br>
-Lawrence C. Evans – Partial Differential Equations (편미분방정식) (AMS) (Not Complete; Chapters 8-11) <br> <br>
+Lawrence C. Evans – Partial Differential Equations (편미분방정식) (AMS) (Not Complete; Chapters 1-2, 8-11) <br>
+Gilbarg, Trudinger – Elliptic Partial Differential Equations of Second Order (2계 타원형 편미분방정식) (Springer) (Currently Translating; 현재 작업중) <br> <br>
 
 Set Theory, Topology (집합론, 위상수학) <br>
 Thomas Jech – Set Theory (집합론) (Springer) (Not Complete; Chapters 1-8) <br>
